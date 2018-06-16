@@ -1,0 +1,133 @@
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\ApplicationInsights.config
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\csc.exe
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\csc.exe.config
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\csc.rsp
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\csi.exe
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\csi.rsp
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\System.AppContext.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\vbc.exe
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\vbc.exe.config
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\vbc.rsp
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\VBCSCompiler.exe
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\MonteLibano.dll.config
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\MonteLibano.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\MonteLibano.pdb
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Antlr3.Runtime.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.AI.Web.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Newtonsoft.Json.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\System.Web.Optimization.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\WebGrease.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\System.Web.Optimization.xml
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Antlr3.Runtime.pdb
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Newtonsoft.Json.xml
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\bin\Microsoft.AI.Web.xml
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\obj\Debug\MonteLibano.csprojResolveAssemblyReference.cache
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\obj\Debug\MonteLibano.csproj.CoreCompileInputs.cache
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\obj\Debug\MonteLibano.dll
+C:\Users\Thales\source\repos\MonteLibano\MonteLibano\obj\Debug\MonteLibano.pdb
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\VBCSCompiler.exe
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\obj\Debug\MonteLibano.csprojResolveAssemblyReference.cache
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\obj\Debug\MonteLibano.csproj.CoreCompileInputs.cache
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\ApplicationInsights.config
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\csc.exe
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\csc.exe.config
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\csc.rsp
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\csi.exe
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\csi.rsp
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\System.AppContext.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\vbc.exe
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\vbc.exe.config
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\vbc.rsp
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\MonteLibano.dll.config
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\MonteLibano.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\MonteLibano.pdb
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Antlr3.Runtime.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\BussinesClass.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Controller.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.AI.Web.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.ApplicationInsights.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Model.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Newtonsoft.Json.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\System.Web.Optimization.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\WebGrease.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\BussinesClass.pdb
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Controller.pdb
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Model.pdb
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\System.Web.Optimization.xml
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Antlr3.Runtime.pdb
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Newtonsoft.Json.xml
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.ApplicationInsights.xml
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\bin\Microsoft.AI.Web.xml
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\obj\Debug\MonteLibano.csproj.CopyComplete
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\obj\Debug\MonteLibano.dll
+C:\Users\João Missorino\Desktop\MonteLibano\MonteLibano\obj\Debug\MonteLibano.pdb

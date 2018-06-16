@@ -1,0 +1,12 @@
+C:\Users\João Missorino\Desktop\WebApplication1\BussinesClass\bin\Debug\BussinesClass.dll
+C:\Users\João Missorino\Desktop\WebApplication1\BussinesClass\bin\Debug\BussinesClass.pdb
+C:\Users\João Missorino\Desktop\WebApplication1\BussinesClass\obj\Debug\BusinessClass.csprojResolveAssemblyReference.cache
+C:\Users\João Missorino\Desktop\WebApplication1\BussinesClass\obj\Debug\BusinessClass.csproj.CoreCompileInputs.cache
+C:\Users\João Missorino\Desktop\WebApplication1\BussinesClass\obj\Debug\BussinesClass.dll
+C:\Users\João Missorino\Desktop\WebApplication1\BussinesClass\obj\Debug\BussinesClass.pdb
+C:\Users\João Missorino\Desktop\MonteLibano\BussinesClass\bin\Debug\BussinesClass.dll
+C:\Users\João Missorino\Desktop\MonteLibano\BussinesClass\bin\Debug\BussinesClass.pdb
+C:\Users\João Missorino\Desktop\MonteLibano\BussinesClass\obj\Debug\BusinessClass.csproj.CoreCompileInputs.cache
+C:\Users\João Missorino\Desktop\MonteLibano\BussinesClass\obj\Debug\BussinesClass.dll
+C:\Users\João Missorino\Desktop\MonteLibano\BussinesClass\obj\Debug\BussinesClass.pdb
+C:\Users\João Missorino\Desktop\MonteLibano\BussinesClass\obj\Debug\BusinessClass.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\João Missorino\Desktop\WebApplication1\Model\bin\Debug\Model.dll
+C:\Users\João Missorino\Desktop\WebApplication1\Model\bin\Debug\Model.pdb
+C:\Users\João Missorino\Desktop\WebApplication1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\João Missorino\Desktop\WebApplication1\Model\obj\Debug\Model.dll
+C:\Users\João Missorino\Desktop\WebApplication1\Model\obj\Debug\Model.pdb
+C:\Users\João Missorino\Desktop\MonteLibano\Model\bin\Debug\Model.dll
+C:\Users\João Missorino\Desktop\MonteLibano\Model\bin\Debug\Model.pdb
+C:\Users\João Missorino\Desktop\MonteLibano\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\João Missorino\Desktop\MonteLibano\Model\obj\Debug\Model.dll
+C:\Users\João Missorino\Desktop\MonteLibano\Model\obj\Debug\Model.pdb
